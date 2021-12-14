@@ -1,0 +1,2 @@
+# myfirstrepo
+Teaching myself github
